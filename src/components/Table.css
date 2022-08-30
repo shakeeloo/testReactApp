@@ -1,0 +1,13 @@
+table{
+    border-spacing: 0px;
+    border:1px solid gray
+}
+th,td{
+    padding: 20px;
+}
+button{
+    background-color: darkorange;
+    padding: 10px 20px;
+    border: none;
+    cursor:pointer
+}
